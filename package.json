@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sdclibbery/CoinAlerts/issues"
   },
-  "homepage": "https://github.com/sdclibbery/CoinAlerts#readme"
+  "homepage": "https://github.com/sdclibbery/CoinAlerts#readme",
+  "dependencies": {
+    "node-fetch": "^1.7.2"
+  }
 }
